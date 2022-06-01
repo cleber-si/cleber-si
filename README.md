@@ -18,9 +18,10 @@
   <img align="center" alt="Cleber-OpenCV" height="30" width="35" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png">
   <img align="center" alt="Cleber-astropy" height="30" width="110" src="https://3.bp.blogspot.com/-cW5RLa-LzKE/Wl6RNyalLWI/AAAAAAABpqY/cTGfbkibZ-0BQiC8FgT8-n8Emq9VhVrsQCLcBGAs/s1600/astropy-logo.png">
   <img align="center" alt="Cleber-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Cleber-Matlab" height="30" width="30" src="https://www.pinclipart.com/picdir/big/38-389244_41-28-january-2017-matlab-logo-transparent-clipart.png">
   <img align="center" alt="Cleber-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Cleber-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Cleber-MSQLServer" height="30" width="110" src="https://www.logolynx.com/images/logolynx/ba/ba191f5e0f17264d5c42229d03c54896.png">
+  <img align="center" alt="Cleber-MSQLServer" height="30" width="30" src="https://logodix.com/logo/481335.png">
   <img align="center" alt="Cleber-vcode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Cleber-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 
